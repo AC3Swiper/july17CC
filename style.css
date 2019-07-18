@@ -1,5 +1,26 @@
-h1 {color:yellow;}
-body {background-color:blue;}
-li {color:cyan;}
-td {color:cyan;}
-a {color:cyan;}
+h1 {
+    color:yellow;
+    }
+
+
+body {
+    background-color:blue;
+    }
+
+li {
+    color:cyan;
+    }
+td {
+    color:cyan;
+    }
+a {
+    color:cyan;
+    }
+
+
+.example {
+background-color:crimson;
+color:blue;
+width:100%;
+height:400px;
+
